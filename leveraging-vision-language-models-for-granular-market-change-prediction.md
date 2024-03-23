@@ -23,7 +23,7 @@ In summary, the paper suggests that incorporating Vision-Language processing mod
 
 ---
 
-## Exploratory Ideation with Assistant
+## [Exploratory Ideation with Assistant](https://platform.openai.com/playground?assistant=asst_xnoIO69wreiqvo6Ly47SZC9i&mode=assistant&thread=thread_AiHdqsbdJXDBEP0HdzLwFVLf)
 
 User
 
