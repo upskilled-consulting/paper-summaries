@@ -4,7 +4,7 @@ The paper (Leveraging Vision-Language Models for Granular Market Change Predicti
 
 ## Core Argument
 
-The core argument is that utilizing Vision-Language models, specifically CLIP, in parsing historical stock data represented as both imagery (line charts) and byte-based text can significantly enhance the accuracy of stock market predictions compared to traditional time-series models[1]``[2].
+The core argument is that utilizing Vision-Language models, specifically CLIP, in parsing historical stock data represented as both imagery (line charts) and byte-based text can significantly enhance the accuracy of stock market predictions compared to traditional time-series models.
 
 ## Evidence
 
@@ -17,7 +17,7 @@ The core argument is that utilizing Vision-Language models, specifically CLIP, i
 * CLIP-based models, particularly those interpreting text data, outperformed other models in critical metrics, including precision in short transactions, total pip balance, and overall evaluation scores.
 * The research implies that combining image and text data representations with advanced neural network models like CLIP can offer significant improvements over traditional forecasting models in financial markets.
 * Despite the inherent long-term positive bias of stock markets, the paper found that models providing higher precision in short transactions potentially lead to better overall performance, challenging the sufficiency of relying on F1 Scores alone for evaluating market prediction models.
-* A unique exploration into 'delayed labeling' indicated that even with a time lag introduced before executing predicted trades, CLIP-based models maintained strong performance, showcasing their robustness and potential real-world applicability[3].
+* A unique exploration into 'delayed labeling' indicated that even with a time lag introduced before executing predicted trades, CLIP-based models maintained strong performance, showcasing their robustness and potential real-world applicability.
 
 In summary, the paper suggests that incorporating Vision-Language processing models with expertly crafted financial data representations opens new horizons for predictive accuracy in financial markets.
 
